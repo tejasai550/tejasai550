@@ -4,7 +4,8 @@
 ---
 
 🎓 **About Me**  
-I'm a dedicated graduate student pursuing an MS in Data Science at the University of Texas at Arlington, with a background in Computer Science and hands-on experience in data engineering and analytics. I've worked at **Tata Consultancy Services (TCS)** and **Basey Insurance**, building ETL pipelines, dashboards, and machine learning models that solve real business problems.
+I'm a dedicated graduate student pursuing an **MS in Data Science** at the **University of Texas at Arlington**, with a background in **Computer Science** and hands-on experience in **data engineering** and **analytics**.  
+I've worked at **Tata Consultancy Services (TCS)** and **Basey Insurance**, building **ETL pipelines**, **dashboards**, and **machine learning models** that solve real business problems.
 
 💡 I love working at the intersection of **data**, **cloud**, and **machine learning** to drive intelligent decisions and business value.
 
@@ -21,12 +22,12 @@ I'm a dedicated graduate student pursuing an MS in Data Science at the Universit
 
 🛠️ **Technical Skills**
 
-- **Languages:** Python, SQL, R, MATLAB, C
-- **Data & Analytics:** Power BI, Tableau, Excel, Pandas, NumPy, Scikit-learn
-- **Cloud & Big Data:** Azure (ADF, Storage, Synapse), Databricks, Snowflake, Spark
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **ML/DL Frameworks:** TensorFlow, PyTorch, OpenCV, Seaborn
-- **Other Tools:** Git, Linux, Docker, Flask, HTML/CSS
+- **Languages:** Python, SQL, R, MATLAB, C  
+- **Data & Analytics:** Power BI, Tableau, Excel, Pandas, NumPy, Scikit-learn  
+- **Cloud & Big Data:** Azure (ADF, Storage, Synapse), Databricks, Snowflake, Spark  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **ML/DL Frameworks:** TensorFlow, PyTorch, OpenCV, Seaborn  
+- **Other Tools:** Git, Linux, Docker, Flask, HTML/CSS  
 
 ---
 
@@ -51,4 +52,15 @@ I'm a dedicated graduate student pursuing an MS in Data Science at the Universit
 ---
 
 ⚡ **Fun Fact**  
-I built a traffic sign detection model inspired by Faster R-CNN that works well even in poor weather conditions!
+I built a **traffic sign detection model** inspired by **Faster R-CNN** that performs robustly even in **adverse weather conditions**!
+
+---
+
+💡 **What I Love**
+
+I enjoy working at the intersection of **data**, **cloud**, and **machine learning** to turn raw data into actionable insights that create **real-world impact**. My interests include:
+
+- 🤖 **AI & Generative AI**  
+- ☁️ **Cloud Computing (Azure, AWS)**  
+- 📈 **Business Intelligence**  
+- 🧠 **Large Language Models (LLMs)**
