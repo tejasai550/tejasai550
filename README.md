@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Teja Sai Upputholla</h1>
-<h3 align="center">Data Analyst | Data Engineer | Graduate Student @ UTA | Passionate About Turning Data Into Actionable Insights</h3>
+<h1 align="center">Hi 👋, I'm Teja Sai</h1>
+<h3 align="center">Data Engineer | Data Science Graduate Student @ UTA | Passionate About Turning Data Into Actionable Insights</h3>
 
 ---
 
