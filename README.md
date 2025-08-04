@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teja Sai Upputholla</h1>
 <h3 align="center">Data Analyst | Data Engineer | Graduate Student @ UTA | Passionate About Turning Data Into Actionable Insights</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejasai550&label=Profile%20views&color=0e75b6&style=flat" alt="tejasai550" />
-</p>
-
 ---
 
 🎓 **About Me**  
@@ -20,10 +16,6 @@ I'm a dedicated graduate student pursuing an MS in Data Science at the Universit
   *University of Texas at Arlington, TX*  
   *08/2023 – 05/2025*  
   GPA: 4.0/4.0  
-
-- **Bachelor of Technology in Computer Science & Engineering**  
-  *[Your Undergraduate University Name], India*  
-  *[Month/Year] – [Month/Year]*  
 
 ---
 
